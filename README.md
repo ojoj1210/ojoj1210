@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there 
 
 I'm Jonathan, a computer science student based in Brisbane, Australia. 
 
