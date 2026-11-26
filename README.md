@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Jonathan, a computer science student based in Brisbane, Australia. 
+
+I mostly work on software while sometimes dabbling into hardware to make things interesting. 
+
+## Tools 
+- Python, R, Jupyter Notebook/RMarkdown
+- React, Typescript, Tailwind
+- Arduino IDE, C++
 
 <!--
 **ojoj1210/ojoj1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
